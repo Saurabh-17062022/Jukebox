@@ -1,0 +1,9 @@
+@startuml
+class com.jukebox.main.PlayListOperations {
+~ Scanner scanner
+~ JukeboxIMPL jukeboxIMPL
+~ int choice
++ void createPlaylistByCategory(Connection)
++ void viewYourPlaylists(Connection)
+}
+@enduml

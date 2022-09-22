@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="427ab9ed-46ee-4a4c-ac59-5a5bd432c9ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukebox/data/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukebox/main/Jukebox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukebox/main/JukeboxIMPL.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukebox/main/PlayListOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/jukebox/util/Db_Connection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Bad Boy x Bad Girl.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Chaar Botal Vodka.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Darkhaast.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Gumshuda.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Gunhegar.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Kesariya.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Mercy.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Street Talk.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Therapy.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/Tujhe Kitna Chahne Lage.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/jukebox/main/JukeboxIMPLTest.java" afterDir="false" />
+    <list default="true" id="427ab9ed-46ee-4a4c-ac59-5a5bd432c9ba" name="Changes" comment="Completed">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -175,6 +154,14 @@
       <option name="presentableId" value="Default" />
       <updated>1663240888628</updated>
     </task>
+    <task id="LOCAL-00001" summary="Completed">
+      <created>1663689353445</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663689353445</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -187,6 +174,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Completed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

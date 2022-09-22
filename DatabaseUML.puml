@@ -1,0 +1,5 @@
+@startuml
+class com.jukebox.util.Db_Connection {
++ {static} Connection getConnection()
+}
+@enduml

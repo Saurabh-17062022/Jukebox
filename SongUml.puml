@@ -1,0 +1,26 @@
+@startuml
+class com.jukebox.data.Song {
+- int songId
+- String songTitle
+- String genre
+- String album
+- String artist
+- String duration
++ <<Create>> Song()
++ <<Create>> Song(int,String,Time,String,String,int,String)
++ <<Create>> Song(int,String,String,String,String,String)
++ int getSongId()
++ void setSongId(int)
++ String getSongTitle()
++ void setSongTitle(String)
++ String getGenre()
++ void setGenre(String)
++ String getAlbum()
++ void setAlbum(String)
++ String getArtist()
++ void setArtist(String)
++ String getDuration()
++ void setDuration(String)
++ String toString()
+}
+@enduml

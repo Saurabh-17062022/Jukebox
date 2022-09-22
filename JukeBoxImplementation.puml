@@ -1,0 +1,15 @@
+@startuml
+class com.jukebox.main.JukeboxIMPL {
+~ {static} PlayListOperations playListOperations
+~ {static} int repeat
+~ Clip clip
++ {static} void main(String[])
++ {static} void jukeboxMenu()
++ {static} List<Song> displayAllSong()
++ void searchSongByCategory(Connection)
++ void searchBySongName(String)
++ void searchByGenre(String)
++ List<Song> searchBySingerName(String)
++ void playSong(Connection)
+}
+@enduml
